@@ -6,3 +6,5 @@ I like playing badminton and pingpong!
 I like jogging!
 
 The weather is rainy!
+
+I am eating cakes.
