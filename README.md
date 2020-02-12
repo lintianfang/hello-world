@@ -5,4 +5,4 @@ I like playing badminton and pingpong!
 
 I like jogging!
 
-The weather is pretty bad!
+The weather is rainy!
