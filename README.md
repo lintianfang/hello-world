@@ -7,4 +7,6 @@ I like jogging!
 
 The weather is rainy!
 
-I am eating cakes.
+I am eating lunch.
+
+I have two apples.
